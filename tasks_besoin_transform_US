@@ -1,0 +1,19 @@
+4. Fonctionnalités attendues – Sprint 1 
+
+4.1 Journal Sport Lʼutilisateur peut ajouter une séance de sport avec :
+-Date Type de sport Durée (en minutes) 
+-Intensité 1 à 5 Commentaire (facultatif) 
+
+4.2 Journal Nutrition Lʼutilisateur peut ajouter un repas avec : 
+-Date Moment du repas (petit-déjeuner / midi / soir / snack) 
+-Catégorie (équilibré / correct / junk) 
+-Commentaire (facultatif) 
+
+4.3 Journal Bien-être Lʼutilisateur peut enregistrer : 
+-Sommeil : nombre dʼheures 
+-Hydratation : nombre de verres dʼeau 0 à 12 
+-Humeur : échelle de 1 à 5 
+4.4 Consultation Lʼutilisateur peut : 
+-consulter la liste des entrées 
+-accéder au détail dʼune entrée 
+-filtrer par date
